@@ -1,0 +1,10 @@
+C:\Users\Компьютер_1\source\repos\Project12\bin\Debug\Project12.exe.config
+C:\Users\Компьютер_1\source\repos\Project12\bin\Debug\Project12.exe
+C:\Users\Компьютер_1\source\repos\Project12\bin\Debug\Project12.pdb
+C:\Users\Компьютер_1\source\repos\Project12\obj\Debug\Project12.csproj.AssemblyReference.cache
+C:\Users\Компьютер_1\source\repos\Project12\obj\Debug\Project12.Form1.resources
+C:\Users\Компьютер_1\source\repos\Project12\obj\Debug\Project12.Properties.Resources.resources
+C:\Users\Компьютер_1\source\repos\Project12\obj\Debug\Project12.csproj.GenerateResource.cache
+C:\Users\Компьютер_1\source\repos\Project12\obj\Debug\Project12.csproj.CoreCompileInputs.cache
+C:\Users\Компьютер_1\source\repos\Project12\obj\Debug\Project12.exe
+C:\Users\Компьютер_1\source\repos\Project12\obj\Debug\Project12.pdb
